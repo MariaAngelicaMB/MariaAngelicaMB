@@ -15,4 +15,4 @@ Designer e dev Fullstack :computer:
  <br/> 💬  &nbsp; Sobre mim: gosto de aprender coisas novas sobre tecnologia, games Stardew Valley, WD2 e maratonar Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MariaAngelica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaangelicamb/)](https://www.linkedin.com/in/mariaangelicamb/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-maria.angelicamatoso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maria.angelicamatos@gmail.com)](mailto:maria.angelicamatos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-maria.angelicamatos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maria.angelicamatos@gmail.com)](mailto:maria.angelicamatos@gmail.com)
