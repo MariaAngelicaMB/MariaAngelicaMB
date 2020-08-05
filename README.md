@@ -5,7 +5,8 @@
 
 ## Olá pessoal 👋
 Sou apaixonada por design e sempre me interessei por programação. Agora estou juntando os dois mundos.
-Sou designer gráfica e entusiasta em front-end :computer:
+<br/>
+Designer e dev Fullstack :computer:
 
  :rocket:  &nbsp; Atualmente trabalhando como **freelancer**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
